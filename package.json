@@ -1,0 +1,15 @@
+{
+  "name": "websocket-todolist-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": "git@github.com:Magdalena-Tarka/websocket-ToDoList-app.git",
+  "author": "Magdalena Tarka <mxtarka@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
