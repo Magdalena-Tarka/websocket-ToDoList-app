@@ -9,8 +9,10 @@
   "author": "Magdalena Tarka <mxtarka@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "4.17.1",
     "nodemon": "^2.0.12",
-    "socket.io": "^4.1.3"
+    "socket.io": "^4.1.3",
+    "socket.io-client": "^4.1.3"
   }
 }
